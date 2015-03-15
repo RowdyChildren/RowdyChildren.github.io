@@ -5,7 +5,7 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "http://2.gravatar.com/avatar/cc5909ba5ad6e875ce44fd9a8c081de9?size=400px"
+  logo: "//2.gravatar.com/avatar/cc5909ba5ad6e875ce44fd9a8c081de9?size=400px"
   # author will appear under the avatar (optional)
   author: "Riley Childs"
   # tagline will appear under the title (optional)
